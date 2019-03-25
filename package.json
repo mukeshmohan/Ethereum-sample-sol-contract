@@ -1,0 +1,20 @@
+{
+  "name": "tut01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ganache-cli": "^6.4.1",
+    "mocha": "^6.0.2",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "0.0.3"
+  },
+  "devDependencies": {
+    "web3": "^1.0.0-beta.35"
+  }
+}
